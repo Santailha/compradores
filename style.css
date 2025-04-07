@@ -17,10 +17,6 @@ body {
 .b24-form-control.b24-form-control-not-empty {
    display: none;  
 }
-
-.b24-form-icon-after.b24-form-icon-remove {
-    display: none;
-}
    
 
 @media (max-width: 768px) {
