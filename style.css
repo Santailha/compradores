@@ -14,3 +14,19 @@ body {
     text-align: center; 
 }
 
+@media (max-width: 768px) {
+    body {
+        padding: 0 20px;
+    }
+    .foto {
+        width: 100%;
+        max-width: 300px;  
+    }
+}
+
+@media (max-width: 480px) {
+    .foto {
+        width: 100%;
+        max-width: 250px; 
+    }
+}
