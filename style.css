@@ -18,6 +18,11 @@ body {
    display: none;  
 }
 
+.b24-form-icon-after.b24-form-icon-remove {
+    display: none;
+}
+   
+
 @media (max-width: 768px) {
     body {
         padding: 0 20px;
