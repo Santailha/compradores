@@ -14,6 +14,10 @@ body {
     text-align: center; 
 }
 
+.b24-form-control.b24-form-control-not-empty {
+   display: none;  
+}
+
 @media (max-width: 768px) {
     body {
         padding: 0 20px;
